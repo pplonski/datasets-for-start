@@ -5,3 +5,7 @@ Datasets for start with Machine Learning
  
  - breast_cancer_wisconsin
  
+## Multiclass classification
+
+ - digits
+ - wine

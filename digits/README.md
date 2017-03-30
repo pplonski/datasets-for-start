@@ -5,4 +5,4 @@
  - Test dataset:  Samples: 1,797 Attributes: 65
  - Dont use first column
  - Target column: last column (class 0-9)
- - Additional preprocessing needed: convert categoricals, feature scaling
+ - Additional preprocessing needed: feature scaling
