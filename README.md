@@ -10,3 +10,7 @@ Datasets for start with Machine Learning
  - digits
  - wine
  - MNIST
+
+## Regression
+
+ - housing
