@@ -12,7 +12,8 @@ Datasets for start with Machine Learning
  - sonar
  - ionosphere
  - spam
- 
+ - diabetes
+
 ## Multiclass classification
 
  - digits
