@@ -5,6 +5,7 @@ Datasets for start with Machine Learning
  
  - breast_cancer_wisconsin
  - 2d_circles
+ - 2d_simple
  - spect
  - credit
  - adult
