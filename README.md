@@ -8,12 +8,15 @@ Datasets for start with Machine Learning
  - spect
  - credit
  - adult
+ - sonar
+ - ionosphere
  
 ## Multiclass classification
 
  - digits
  - wine
  - MNIST
+ - glass
 
 ## Regression
 
