@@ -11,6 +11,7 @@ Datasets for start with Machine Learning
  - adult
  - sonar
  - ionosphere
+ - spam
  
 ## Multiclass classification
 
