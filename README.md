@@ -19,3 +19,5 @@ Datasets for start with Machine Learning
 
  - housing
  - house_prices
+ - regression_1
+ - regression_2
