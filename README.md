@@ -20,6 +20,7 @@ Datasets for start with Machine Learning
  - wine
  - MNIST
  - glass
+ - iris
 
 ## Regression
 
