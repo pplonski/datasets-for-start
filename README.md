@@ -6,6 +6,8 @@ Datasets for start with Machine Learning
  - breast_cancer_wisconsin
  - 2d_circles
  - spect
+ - credit
+ - adult
  
 ## Multiclass classification
 
