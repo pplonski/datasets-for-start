@@ -14,6 +14,7 @@ Datasets for start with Machine Learning
  - ionosphere
  - spam
  - diabetes
+ - employee_attrition
 
 ## Multiclass classification
 
