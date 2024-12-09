@@ -1,0 +1,147 @@
+country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption
+Finland,Western Europe,7.821,1.892,1.258,0.775,0.736,0.109,0.534
+Denmark,Western Europe,7.636,1.953,1.243,0.777,0.719,0.188,0.532
+Iceland,Western Europe,7.557,1.936,1.32,0.803,0.718,0.27,0.191
+Switzerland,Western Europe,7.512,2.026,1.226,0.822,0.677,0.147,0.461
+Netherlands,Western Europe,7.415,1.945,1.206,0.787,0.651,0.271,0.419
+Luxembourg,Western Europe,7.404,2.209,1.155,0.79,0.7,0.12,0.388
+Sweden,Western Europe,7.384,1.92,1.204,0.803,0.724,0.218,0.512
+Norway,Western Europe,7.365,1.997,1.239,0.786,0.728,0.217,0.474
+Israel,Middle East and North Africa,7.364,1.826,1.221,0.818,0.568,0.155,0.143
+New Zealand,North America and ANZ,7.2,1.852,1.235,0.752,0.68,0.245,0.483
+Austria,Western Europe,7.163,1.931,1.165,0.774,0.623,0.193,0.329
+Australia,North America and ANZ,7.162,1.9,1.203,0.772,0.676,0.258,0.341
+Ireland,Western Europe,7.041,2.129,1.166,0.779,0.627,0.19,0.408
+Germany,Western Europe,7.034,1.924,1.088,0.776,0.585,0.163,0.358
+Canada,North America and ANZ,7.025,1.886,1.188,0.783,0.659,0.217,0.368
+United States,North America and ANZ,6.977,1.982,1.182,0.628,0.574,0.22,0.177
+United Kingdom,Western Europe,6.943,1.867,1.143,0.75,0.597,0.289,0.329
+Czechia,Central and Eastern Europe,6.92,1.815,1.26,0.715,0.66,0.158,0.048
+Belgium,Western Europe,6.805,1.907,1.106,0.764,0.492,0.049,0.204
+France,Western Europe,6.687,1.863,1.219,0.808,0.567,0.07,0.266
+Bahrain,Middle East and North Africa,6.647,1.854,1.029,0.625,0.693,0.199,0.155
+Slovenia,Central and Eastern Europe,6.63,1.81,1.249,0.769,0.685,0.118,0.115
+Costa Rica,Latin America and Caribbean,6.582,1.584,1.054,0.744,0.661,0.089,0.102
+United Arab Emirates,Middle East and North Africa,6.576,1.998,0.98,0.633,0.702,0.204,0.25
+Saudi Arabia,Middle East and North Africa,6.523,1.87,1.092,0.577,0.651,0.078,0.18
+Taiwan Province of China,East Asia,6.512,1.897,1.095,0.733,0.542,0.075,0.168
+Singapore,Southeast Asia,6.48,2.149,1.127,0.851,0.672,0.163,0.587
+Romania,Central and Eastern Europe,6.477,1.719,1.006,0.655,0.605,0.039,0.006
+Spain,Western Europe,6.476,1.808,1.211,0.808,0.505,0.101,0.149
+Uruguay,Latin America and Caribbean,6.474,1.615,1.18,0.672,0.665,0.103,0.265
+Italy,Western Europe,6.467,1.834,1.052,0.801,0.412,0.085,0.059
+Kosovo,Central and Eastern Europe,6.455,1.362,0.949,0.569,0.599,0.309,0.035
+Malta,Western Europe,6.447,1.838,1.169,0.789,0.679,0.174,0.166
+Lithuania,Central and Eastern Europe,6.446,1.804,1.204,0.659,0.496,0.053,0.077
+Slovakia,Central and Eastern Europe,6.391,1.736,1.232,0.707,0.479,0.118,0.025
+Estonia,Central and Eastern Europe,6.341,1.793,1.232,0.728,0.689,0.123,0.333
+Panama,Latin America and Caribbean,6.309,1.715,1.107,0.709,0.592,0.049,0.051
+Brazil,Latin America and Caribbean,6.293,1.462,1.044,0.615,0.546,0.131,0.134
+Guatemala,Latin America and Caribbean,6.262,1.274,0.831,0.522,0.662,0.112,0.115
+Kazakhstan,Commonwealth of Independent States,6.234,1.668,1.22,0.611,0.584,0.134,0.157
+Cyprus,Western Europe,6.221,1.815,0.909,0.819,0.448,0.123,0.062
+Latvia,Central and Eastern Europe,6.18,1.732,1.221,0.637,0.502,0.075,0.09
+Serbia,Central and Eastern Europe,6.178,1.55,1.086,0.658,0.546,0.219,0.088
+Chile,Latin America and Caribbean,6.172,1.651,1.08,0.748,0.46,0.124,0.069
+Nicaragua,Latin America and Caribbean,6.165,1.105,1.029,0.617,0.617,0.168,0.212
+Mexico,Latin America and Caribbean,6.128,1.552,0.886,0.623,0.621,0.092,0.115
+Croatia,Central and Eastern Europe,6.125,1.705,1.183,0.709,0.535,0.109,0
+Poland,Central and Eastern Europe,6.123,1.758,1.174,0.712,0.523,0.124,0.14
+El Salvador,Latin America and Caribbean,6.12,1.265,0.768,0.607,0.666,0.089,0.212
+Kuwait,Middle East and North Africa,6.106,1.904,0.983,0.747,0.617,0.087,0.147
+Hungary,Central and Eastern Europe,6.086,1.748,1.233,0.668,0.485,0.078,0.064
+Mauritius,Sub-Saharan Africa,6.071,1.591,1.116,0.568,0.589,0.131,0.107
+Uzbekistan,Commonwealth of Independent States,6.063,1.219,1.092,0.6,0.716,0.283,0.24
+Japan,East Asia,6.039,1.835,1.089,0.866,0.537,0.007,0.218
+Honduras,Latin America and Caribbean,6.022,1.111,0.885,0.555,0.582,0.202,0.076
+Portugal,Western Europe,6.016,1.76,1.078,0.777,0.655,0.016,0.039
+Argentina,Latin America and Caribbean,5.967,1.592,1.102,0.662,0.555,0.081,0.085
+Greece,Western Europe,5.948,1.703,0.98,0.774,0.249,0.015,0.108
+South Korea,East Asia,5.935,1.851,0.886,0.841,0.414,0.111,0.176
+Philippines,Southeast Asia,5.904,1.268,0.912,0.514,0.678,0.107,0.142
+Thailand,Southeast Asia,5.891,1.535,1.096,0.697,0.617,0.321,0.026
+Moldova,Central and Eastern Europe,5.857,1.417,1.008,0.597,0.561,0.102,0.028
+Jamaica,Latin America and Caribbean,5.85,1.296,1.045,0.646,0.567,0.08,0.053
+Kyrgyzstan,Commonwealth of Independent States,5.828,1.069,1.109,0.638,0.693,0.208,0.025
+Belarus,Central and Eastern Europe,5.821,1.562,1.157,0.629,0.342,0.04,0.282
+Colombia,Latin America and Caribbean,5.781,1.452,0.929,0.72,0.545,0.087,0.077
+Bosnia and Herzegovina,Central and Eastern Europe,5.768,1.468,1.068,0.665,0.448,0.244,0.006
+Mongolia,East Asia,5.761,1.393,1.197,0.467,0.398,0.247,0.059
+Dominican Republic,Latin America and Caribbean,5.737,1.538,1.003,0.577,0.606,0.084,0.179
+Malaysia,Southeast Asia,5.711,1.689,0.938,0.62,0.654,0.213,0.126
+Bolivia,Latin America and Caribbean,5.6,1.256,0.88,0.555,0.627,0.112,0.064
+China,East Asia,5.585,1.508,0.958,0.705,0.656,0.099,0.142
+Paraguay,Latin America and Caribbean,5.578,1.409,1.13,0.624,0.629,0.171,0.059
+Peru,Latin America and Caribbean,5.559,1.397,0.865,0.735,0.545,0.09,0.037
+Montenegro,Central and Eastern Europe,5.547,1.573,1.023,0.659,0.46,0.135,0.077
+Ecuador,Latin America and Caribbean,5.533,1.352,0.879,0.708,0.565,0.08,0.083
+Vietnam,Southeast Asia,5.485,1.252,0.932,0.611,0.707,0.143,0.105
+Turkmenistan,Commonwealth of Independent States,5.474,1.484,1.319,0.516,0.649,0.314,0.032
+North Cyprus,Western Europe,5.467,1.815,0.888,0.819,0.523,0.13,0.213
+Russia,Central and Eastern Europe,5.459,1.685,1.095,0.586,0.401,0.117,0.08
+Hong Kong S.A.R. of China,East Asia,5.425,1.957,0.954,0.942,0.4,0.147,0.383
+Armenia,Central and Eastern Europe,5.399,1.434,0.82,0.668,0.558,0.054,0.21
+Tajikistan,Commonwealth of Independent States,5.377,0.966,1.005,0.518,0.572,0.118,0.304
+Nepal,South Asia,5.377,0.984,0.784,0.499,0.519,0.237,0.13
+Bulgaria,Central and Eastern Europe,5.371,1.625,1.163,0.64,0.563,0.123,0.021
+Libya,Middle East and North Africa,5.33,1.476,0.943,0.606,0.477,0.106,0.179
+Indonesia,Southeast Asia,5.24,1.382,0.883,0.539,0.62,0.468,0.047
+Ivory Coast,Sub-Saharan Africa,5.235,1.094,0.442,0.322,0.451,0.149,0.124
+North Macedonia,Central and Eastern Europe,5.199,1.505,0.863,0.637,0.488,0.215,0.031
+Albania,Central and Eastern Europe,5.199,1.439,0.646,0.719,0.511,0.138,0.028
+South Africa,Sub-Saharan Africa,5.194,1.425,1.088,0.361,0.442,0.089,0.046
+Azerbaijan,Central and Eastern Europe,5.173,1.458,1.093,0.56,0.601,0.023,0.341
+Gambia,Sub-Saharan Africa,5.164,0.785,0.621,0.369,0.367,0.388,0.103
+Bangladesh,South Asia,5.155,1.06,0.614,0.581,0.622,0.125,0.187
+Laos,Southeast Asia,5.14,1.239,0.654,0.479,0.679,0.197,0.184
+Algeria,Middle East and North Africa,5.122,1.363,0.97,0.643,0.146,0.106,0.15
+Liberia,Sub-Saharan Africa,5.122,0.636,0.67,0.309,0.405,0.178,0.08
+Ukraine,Central and Eastern Europe,5.084,1.411,1.081,0.583,0.473,0.188,0.017
+Congo,Sub-Saharan Africa,5.075,0.95,0.405,0.355,0.431,0.13,0.146
+Morocco,Middle East and North Africa,5.06,1.208,0.268,0.565,0.492,0.02,0.102
+Mozambique,Sub-Saharan Africa,5.048,0.578,0.66,0.191,0.593,0.185,0.2
+Cameroon,Sub-Saharan Africa,5.048,0.968,0.672,0.317,0.397,0.152,0.074
+Senegal,Sub-Saharan Africa,5.046,0.933,0.53,0.447,0.494,0.143,0.081
+Niger,Sub-Saharan Africa,5.003,0.57,0.56,0.326,0.571,0.165,0.145
+Georgia,Central and Eastern Europe,4.973,1.467,0.612,0.595,0.508,0,0.208
+Gabon,Sub-Saharan Africa,4.958,1.459,0.738,0.396,0.343,0.032,0.099
+Iraq,Middle East and North Africa,4.941,1.289,0.682,0.554,0.328,0.147,0.046
+Venezuela,Latin America and Caribbean,4.925,0,0.968,0.578,0.283,0.225,0.082
+Guinea,Sub-Saharan Africa,4.891,0.848,0.566,0.275,0.334,0.214,0.116
+Iran,Middle East and North Africa,4.888,1.41,0.741,0.642,0.281,0.241,0.146
+Ghana,Sub-Saharan Africa,4.872,1.112,0.595,0.409,0.5,0.23,0.056
+Turkey,Middle East and North Africa,4.744,1.707,0.865,0.702,0.209,0.087,0.115
+Burkina Faso,Sub-Saharan Africa,4.67,0.779,0.565,0.32,0.382,0.186,0.126
+Cambodia,Southeast Asia,4.64,1.019,0.732,0.505,0.74,0.166,0.068
+Benin,Sub-Saharan Africa,4.623,0.932,0.064,0.335,0.479,0.127,0.23
+Comoros,Sub-Saharan Africa,4.609,0.899,0.476,0.424,0.185,0.195,0.125
+Uganda,Sub-Saharan Africa,4.603,0.777,0.875,0.418,0.402,0.222,0.066
+Nigeria,Sub-Saharan Africa,4.552,1.079,0.732,0.3,0.444,0.175,0.038
+Kenya,Sub-Saharan Africa,4.543,1.032,0.605,0.401,0.44,0.322,0.082
+Tunisia,Middle East and North Africa,4.516,1.35,0.596,0.656,0.316,0.029,0.029
+Pakistan,South Asia,4.516,1.049,0.413,0.374,0.448,0.181,0.112
+Palestinian Territories,Middle East and North Africa,4.483,1.148,0.957,0.521,0.336,0.073,0.079
+Mali,Sub-Saharan Africa,4.479,0.792,0.483,0.311,0.35,0.128,0.042
+Namibia,Sub-Saharan Africa,4.459,1.292,0.877,0.354,0.384,0.067,0.071
+Eswatini,Sub-Saharan Africa,4.396,1.274,0.786,0.197,0.259,0.038,0.154
+Myanmar,Southeast Asia,4.394,1.038,0.829,0.491,0.513,0.452,0.194
+Sri Lanka,South Asia,4.362,1.415,0.934,0.66,0.529,0.15,0.079
+Madagascar,Sub-Saharan Africa,4.339,0.67,0.645,0.378,0.202,0.143,0.154
+Egypt,Middle East and North Africa,4.288,1.388,0.732,0.548,0.469,0.041,0.254
+Chad,Sub-Saharan Africa,4.251,0.662,0.506,0.225,0.18,0.182,0.077
+Ethiopia,Sub-Saharan Africa,4.241,0.788,0.809,0.457,0.472,0.205,0.136
+Yemen,Middle East and North Africa,4.197,0.691,1.043,0.384,0.33,0.09,0.098
+Mauritania,Sub-Saharan Africa,4.153,1.1,0.865,0.45,0.304,0.088,0.138
+Jordan,Middle East and North Africa,4.152,1.324,0.724,0.675,0.476,0.058,0.2
+Togo,Sub-Saharan Africa,4.112,0.771,0.322,0.36,0.292,0.174,0.132
+India,South Asia,3.777,1.167,0.376,0.471,0.647,0.198,0.123
+Zambia,Sub-Saharan Africa,3.76,0.93,0.577,0.306,0.525,0.203,0.083
+Malawi,Sub-Saharan Africa,3.75,0.648,0.279,0.388,0.477,0.14,0.157
+Tanzania,Sub-Saharan Africa,3.702,0.848,0.597,0.425,0.578,0.248,0.27
+Sierra Leone,Sub-Saharan Africa,3.574,0.686,0.416,0.273,0.387,0.202,0.055
+Lesotho,Sub-Saharan Africa,3.512,0.839,0.848,0,0.419,0.076,0.018
+Botswana,Sub-Saharan Africa,3.471,1.503,0.815,0.28,0.571,0.012,0.102
+Rwanda,Sub-Saharan Africa,3.268,0.785,0.133,0.462,0.621,0.187,0.544
+Zimbabwe,Sub-Saharan Africa,2.995,0.947,0.69,0.27,0.329,0.106,0.105
+Lebanon,Middle East and North Africa,2.955,1.392,0.498,0.631,0.103,0.082,0.034
+Afghanistan,South Asia,2.404,0.758,0,0.289,0,0.089,0.005
