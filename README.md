@@ -22,15 +22,9 @@ This repository helps you:
 
 ## 🧠 Use with MLJAR Studio
 
-These datasets work perfectly with **MLJAR Studio** — a desktop app for data science.
+These datasets work perfectly with **MLJAR Studio**.
 
-With MLJAR Studio you can:
-
-* load datasets instantly
-* explore data visually
-* run Python + no-code workflows
-* build machine learning models
-* generate plots and reports
+MLJAR Studio is a desktop application designed for data science, combining AI and Python in one place. It lets users easily load data, build machine learning models, and generate reports without complex setup. It is especially beginner-friendly, helping users move from data to insights quickly while still giving advanced users full control.
 
 👉 [https://mljar.com/](https://mljar.com)
 
