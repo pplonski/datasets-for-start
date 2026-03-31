@@ -6,7 +6,7 @@ The dataset contains information about housing in suburbs of Boston, Massachuset
 It includes various socioeconomic and environmental features, with the goal of predicting house prices.
 
 Each row represents a census tract, described by attributes such as crime rate, number of rooms, and accessibility to highways.
-The dataset was collected by the U.S. Census Service and has been widely used as a benchmark for regression tasks. ([U of T Computer Science][1])
+The dataset was collected by the U.S. Census Service and has been widely used as a benchmark for regression tasks. 
 
 ## Target
 
