@@ -1,4 +1,4 @@
-## Insurance Dataset
+# Insurance Dataset
 
 This dataset contains information about 1,338 people and their medical insurance charges. Each row describes one person using features such as age, sex, BMI, number of children, smoking status, and region.
 
