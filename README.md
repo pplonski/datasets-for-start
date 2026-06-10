@@ -70,6 +70,7 @@ MLJAR Studio is a desktop application designed for data science, combining AI an
 | regression_1              | synthetic   | small | value      |
 | regression_2              | synthetic   | small | value      |
 | us_house_prices_1950_2024 | time series | ~900  | price      |
+| insurance                 | tabular     | 1.3k  | charges    |
 
 
 ### 🟡 Time Series
