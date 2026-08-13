@@ -71,3 +71,7 @@ columns or just the id, and two tutorials would disagree.
 and it is genuinely dangerous — worth a sentence in the date tutorial — but a
 trap that silently produces wrong dates is bad in a fixture whose numbers are
 quoted on five pages.
+
+## Example Data Cleaning
+
+- https://platform.mljar.com/chat/piotrek/clean-messy-excel-data-with-ai-and-python/
